@@ -14,18 +14,26 @@ export default function Layout(){
      </div>
      
      {/* About section*/}
-     <div class="bg-zinc-900 flex flex-col justify-items-start px-2 py-9">
-     <h3 class="text-2xl text-green-500 font-bold mb-4">About <span class="text-gray-50">-</span></h3>
+     <div class="bg-zinc-900 flex flex-col justify-items-start px-2.5 py-9">
+     <h3 class="text-2xl text-green-500 font-bold mb-2.5">About <span class="text-gray-50">-</span></h3>
      <p class="text-gray-200 font-thin">Commodo laboris magna consectetur minim deserunt ex minim nulla deserunt amet eiusmod. Qui culpa duis nostrud labore laboris. Nostrud adipisicing labore qui ad aute incididunt irure dolor nostrud eiusmod mollit excepteur et sit. Ex enim qui adipisicing fugiat anim eiusmod dolor qui reprehenderit pariatur duis deserunt.</p>
      </div>
      
      { /*Featured project section*/}
-    <div class="bg-zinc-800 flex flex-col justify-items-start p-2">
+    <div class="bg-zinc-800 flex flex-col justify-items-start p-2.5">
      <p class="text-2xl font-bold my-5 text-green-500">Featured Projects <span class="text-gray-50">-</span></p>
+     
      <div class="grid grid-cols-1 md:grid-cols-2 md:gap-2">
      <ProjectCard/>
      </div>
      </div>
+     
+     {/*CTA*/}
+     <div class="flex flex-col justify-start bg-zinc-900 py-3 px-2.5 pb-9">
+     <h3 class="mt-7 mb-2 text-gray-50 text-2xl font-bold text-green-500">Lets make something amazing together.</h3>
+     <p class="text-gray-50 text-lg font-thin">Start by saying hi</p>
+     </div>
+     
      </div>
 		</>
 )}

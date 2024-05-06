@@ -6,9 +6,9 @@ export default function ProductCard(){
      <>
      {projects.map((project) => (
      <Link to={project.previewLink}>
-          <div key={project.id} class="bg-zinc-900 hover:bg-zinc-800 rounded-md px-3 pt-3 mb-4 overflow-y-hidden">
+          <div key={project.id} class="bg-zinc-900 hover:opacity-70 rounded-md px-3 pt-3 mb-4 overflow-y-hidden">
           <h3 class="text-lg text-gray-50 border-b border-b-green-500 mb-1 pb-1">{project.name}</h3>
-          <p class="font-thin text-gray-400 mb-3">{project.body}</p>
+          <p class="font-light text-gray-400 mb-3">{project.body}</p>
           
           {/*contaimer for langusges and link to repo*/}
           <div class="flex flex-row justify-between items-center mb-3">
@@ -16,7 +16,7 @@ export default function ProductCard(){
           <div class="flex flex-row">
             {project.languages && project.languages.map((language) => (
                 <div key={language}>
-                  <img class="size-[1.4rem] mr-2" src={images[language]} alt={language}/>
+                  <img class="size-[1.4rem] mr-1.5" src={images[language]} alt={language}/>
                 </div>
               ))}
           </div>
