@@ -14,16 +14,17 @@ export default function Layout(){
      </div>
      
      {/* About section*/}
-     <div class="bg-zinc-900 flex flex-col justify-items-start px-3 py-9">
+     <div class="bg-zinc-900 flex flex-col justify-items-start px-2 py-9">
      <h3 class="text-2xl text-green-500 font-bold mb-4">About <span class="text-gray-50">-</span></h3>
      <p class="text-gray-200 font-thin">Commodo laboris magna consectetur minim deserunt ex minim nulla deserunt amet eiusmod. Qui culpa duis nostrud labore laboris. Nostrud adipisicing labore qui ad aute incididunt irure dolor nostrud eiusmod mollit excepteur et sit. Ex enim qui adipisicing fugiat anim eiusmod dolor qui reprehenderit pariatur duis deserunt.</p>
      </div>
      
      { /*Featured project section*/}
-    <div class="bg-zinc-800 flex flex-col justify-items-start p-3">
-     <p class="text-2xl font-bold my-5 text-green-500">Featured Projects</p>
-     
+    <div class="bg-zinc-800 flex flex-col justify-items-start p-2">
+     <p class="text-2xl font-bold my-5 text-green-500">Featured Projects <span class="text-gray-50">-</span></p>
+     <div class="grid grid-cols-1 md:grid-cols-2 md:gap-2">
      <ProjectCard/>
+     </div>
      </div>
      </div>
 		</>

@@ -1,0 +1,31 @@
+{
+	"projects":[
+		{
+			"id":"1",
+			"name":"Dynamic value services",
+			"image":"/dynamicValue.png",
+			"body":"exercitation laborum cupidatat cillum magna eiusmod excepteur consectetur id laboris",
+			"previewLink":"https://dynamicvalueservices.vercel.app/",
+			"repoLink":"https://github.com/Lemon-stack/E-com_page",
+			"languages": ["react", "tailwind"]
+		},
+		{
+			"id":"2",
+			"name":"Validation Form",
+			"image":"/validationForm.png",
+			"body":"exercitation laborum cupidatat cillum magna eiusmod excepteur consectetur id laboris",
+			"previewLink":"https://lemon-stack.github.io/Simple-form-validation-/",
+			"repoLink":"https://github.com/Lemon-stack/Simple-form-validation-",
+			"languages": ["html", "css","javascript"]
+		}
+		],
+		
+		 "images": {
+    "tailwind": "/tailwind.svg",
+    "react": "/react.svg",
+    "javascript":"/javaScript.svg",
+    "css":"/css.svg",
+    "html":"/html.svg"
+    
+  }
+}
