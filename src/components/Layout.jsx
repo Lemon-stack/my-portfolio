@@ -16,7 +16,16 @@ export default function Layout(){
      {/* About section*/}
      <div class="bg-zinc-900 flex flex-col justify-items-start px-2.5 py-9">
      <h3 class="text-2xl text-green-500 font-bold mb-2.5">About <span class="text-gray-50">-</span></h3>
-     <p class="text-gray-200 font-thin">Commodo laboris magna consectetur minim deserunt ex minim nulla deserunt amet eiusmod. Qui culpa duis nostrud labore laboris. Nostrud adipisicing labore qui ad aute incididunt irure dolor nostrud eiusmod mollit excepteur et sit. Ex enim qui adipisicing fugiat anim eiusmod dolor qui reprehenderit pariatur duis deserunt.</p>
+     <p class="text-gray-200 font-thin">I'm a passionate React developer wuth a strong foundation in modern technologies like Tailwind CSS, Supabase, Git and GitHub, I craft dynamic and user-friendly web apps.
+<br/>
+<br/>
+While React is my primary focus, I leverage Tailwind CSS for stunning, responsive UIs,
+Git & GitHub for version control and Supabase for robust backend solutions
+
+I'm constantly in pursuit of growth and continuous learning.
+<br/>
+<br/>
+If you're seeking a skilled React developer to code your vision to life, let's collaborate and create remarkable experiences together.</p>
      </div>
      
      { /*Featured project section*/}
