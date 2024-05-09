@@ -6,7 +6,7 @@ export default function ProductCard(){
      <>
      {projects.map((project) => (
      <Link to={project.previewLink}>
-          <div key={project.id} class="bg-zinc-900 hover:opacity-70 rounded-md px-3 pt-3 mb-4 overflow-y-hidden">
+          <div key={project.id} class="bg-zinc-900 hover:opacity-70 w-full h-full rounded-md px-3 pt-3 mb-4 overflow-y-hidden">
           <h3 class="text-lg text-gray-50 border-b border-b-green-500 mb-1 pb-1">{project.name}</h3>
           <p class="font-light text-gray-400 mb-3">{project.body}</p>
           
