@@ -11,3 +11,16 @@ body{
 	height:100vh;
 }
 
+/* Select the scrollbar track */
+::-webkit-scrollbar-track {
+	background-color: yellow;
+  }
+  
+  /* Select the scrollbar thumb */
+  ::-webkit-scrollbar-thumb {
+	background-color: green;
+  
+	/* Change the size of the thumb */
+	height: 50px;
+	width: 30px;
+  }

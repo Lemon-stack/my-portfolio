@@ -5,7 +5,7 @@ export default function Container(){
 	return(
 		<div class="flex h-screen w-full">
       {/* Left Navigation */}
-      <div class="w-1/6 bg-zinc-900 text-white flex-none">
+      <div class="w-[15%] md:w-[10%] bg-zinc-900 text-white flex-none">
         <Nav />
       </div>
       
