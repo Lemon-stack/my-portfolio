@@ -1,5 +1,5 @@
 // DownloadCv.js
-import React from 'react';
+
 import cvPdf from '/cv.pdf'; // Import the PDF file
 
 const DownloadCv = () => {
@@ -23,7 +23,7 @@ const DownloadCv = () => {
   };
 
   return (
-    <button class="hover:bg-gray-50 hover:text-zinc-900 absolute top-3 right-3 md:right-5 border-gray-50 rounded-lg text-gray-50 border md:w-1/5 w-1/4 " onClick={handleDownload}>Download CV</button>
+    <button className="hover:bg-gray-50 hover:text-zinc-900 absolute top-3 right-3 md:right-5 border-gray-50 rounded-lg text-gray-50 border md:w-1/5 w-1/4 " onClick={handleDownload}>Download CV</button>
   );
 };
 

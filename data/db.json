@@ -3,7 +3,7 @@
 		{
 			"id":"1",
 			"name":"Dynamic value services",
-			"image":"/dynamicValue.png",
+			"image":"/dynamic.png",
 			"body":"I created a basic E-commerce site with Admin's CRUD operations",
 			"previewLink":"https://dynamicvalueservices.vercel.app/",
 			"repoLink":"https://github.com/Lemon-stack/E-com_page",
@@ -17,6 +17,15 @@
 			"previewLink":"https://lemon-stack.github.io/Simple-form-validation-/",
 			"repoLink":"https://github.com/Lemon-stack/Simple-form-validation-",
 			"languages": ["html", "css","javascript"]
+		},
+		{
+			"id":"3",
+			"name":"Wailist",
+			"image":"/wailist.png",
+			"body":"Create and manage waitlist for product's Pre-lauch",
+			"previewLink":"https://lemon-stack.github.io/Simple-form-validation-/",
+			"repoLink":"https://github.com/Lemon-stack/Simple-form-validation-",
+			"languages": ["react", "tailwind","firebase"]
 		}
 		],
 		
@@ -25,7 +34,8 @@
     "react": "/react.svg",
     "javascript":"/javaScript.svg",
     "css":"/css.svg",
-    "html":"/html.svg"
+    "html":"/html.svg",
+    "firebase":"/firebase.svg"
     
   }
 }
