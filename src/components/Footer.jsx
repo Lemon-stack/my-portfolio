@@ -8,11 +8,12 @@ export default function Footer() {
     <div className="flex justify-between items-center px-4">
       <h3>lemonconfidence © 2024</h3>
 
-      <div className="flex items-center space-x-2">
+      <div className="flex items-center space-x-3">
         {/* X icon */}
         <Link to="https://x.com/lemonconfidence">
           <div className="hover:-translate-y-0.5 transition-all ease-in">
             <svg
+              className="hover:text-green-500 transition-all ease-in"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               width="20"
@@ -35,6 +36,7 @@ export default function Footer() {
         <Link to="https://www.linkedin.com/in/lemonconfidence">
           <div className="hover:-translate-y-0.5 transition-all ease-in">
             <svg
+              className="hover:text-green-500 transition-all ease-in"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               width="20"
@@ -68,6 +70,7 @@ export default function Footer() {
           className="hover:-translate-y-0.5 transition-all ease-in cursor-pointer"
         >
           <svg
+            className="hover:text-green-500 transition-all ease-in"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
             width="20"
