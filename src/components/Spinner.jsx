@@ -1,7 +1,7 @@
 export default function Spinner() {
   return (
     <div
-    className="px-auto min-h-screen w-full flex justify-start items-start p-4 bg-zinc-900 m-0" 
+    className="px-auto min-h-full w-full flex justify-start items-start p-4 bg-zinc-900" 
     role="status">
   <svg
     aria-hidden="true"
