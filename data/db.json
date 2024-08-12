@@ -23,7 +23,7 @@
 			"name":"Wailist",
 			"image":"/wailist.png",
 			"body":"Create and manage waitlist for product's Pre-lauch",
-			"previewLink":"https://lemon-stack.github.io/Simple-form-validation-/",
+			"previewLink":"https://wailist.vercel.app",
 			"repoLink":"https://github.com/Lemon-stack/Simple-form-validation-",
 			"languages": ["react", "tailwind","firebase"]
 		}
