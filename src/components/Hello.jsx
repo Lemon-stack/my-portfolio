@@ -17,7 +17,14 @@ export default function Hello() {
           While React is my primary focus, I also use Tailwind CSS for stying,
           Git &amp; GitHub for version control and Firebase for my backend
           <br />
-          I&apos;m currently seeking for a role as a Frontend Developer.
+          I&apos;m currently learning new stacks like NextJs and also ExpressJs,
+          seeking to improver efficiently in my field of work.
+          <br />
+          I&apos;ve also volunteered for some large scale project which
+          you&apos;d soon see in the project&apos;s page of this webapp.
+          <br />
+          <br />
+          BTW - I&apos;m on the lookout for a role as a Frontend Developer.
           <br />
           <br />
         </p>
