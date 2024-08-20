@@ -11,12 +11,12 @@
 		},
 		{
 			"id":"2",
-			"name":"Validation Form",
-			"image":"/validationForm.png",
-			"body":"Explored a form validation logic using Regexp",
-			"previewLink":"https://lemon-stack.github.io/Simple-form-validation-/",
-			"repoLink":"https://github.com/Lemon-stack/Simple-form-validation-",
-			"languages": ["html", "css","javascript"]
+			"name":"EasyBank Landing Page UI",
+			"image":"/easybank.png",
+			"body":"A responsive demo of easybank UI",
+			"previewLink":"https://easy-bank-ui.vercel.app",
+			"repoLink":"https://github.com/Lemon-stack/EasyBank-UI",
+			"languages": ["react", "tailwind"]
 		},
 		{
 			"id":"3",
