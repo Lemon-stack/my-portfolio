@@ -32,7 +32,7 @@
 			"name":"LinkedLeads",
 			"image":"/linkedleads.png",
 			"body":"A convesational AI-powered platform for creating and managing posts on LinkedIn",
-			"previewLink":"https://linkedleads.vercel.app",
+			"previewLink":"https://linked-leads.vercel.app",
 			"repoLink":"https://github.com/Lemon-stack/Post-AI",
 			"languages": ["react", "tailwind","firebase"]
 		}

@@ -11,7 +11,7 @@ export default function Hello() {
       <div className="pt-3">
         <p className="text-gray-200 font-thin">
           I&apos;m a React developer with a strong foundation in modern
-          technologies like Tailwind CSS, Supabase, FIrebase, Git and GitHub.
+          technologies like Tailwind CSS, Supabase, Firebase, Git and GitHub.
           <br />
           <br />
           While React is my primary focus, I also use Tailwind CSS for stying,
