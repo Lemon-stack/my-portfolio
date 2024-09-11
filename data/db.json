@@ -24,7 +24,16 @@
 			"image":"/wailist.png",
 			"body":"Create and manage waitlist for product's Pre-lauch",
 			"previewLink":"https://wailist.vercel.app",
-			"repoLink":"https://github.com/Lemon-stack/Simple-form-validation-",
+			"repoLink":"https://github.com/Lemon-stack/wailist",
+			"languages": ["react", "tailwind","firebase"]
+		},
+		{
+			"id":"4",
+			"name":"LinkedLeads",
+			"image":"/linkedleads.png",
+			"body":"A convesational AI-powered platform for creating and managing posts on LinkedIn",
+			"previewLink":"https://linkedleads.vercel.app",
+			"repoLink":"https://github.com/Lemon-stack/Post-AI",
 			"languages": ["react", "tailwind","firebase"]
 		}
 		],
