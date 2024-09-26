@@ -29,11 +29,20 @@
 		},
 		{
 			"id":"4",
-			"name":"LinkedLeads",
+			"name":"LinkedLeads - (in progress)",
 			"image":"/linkedleads.png",
 			"body":"A convesational AI-powered platform for creating and managing posts on LinkedIn",
 			"previewLink":"https://linked-leads.vercel.app",
 			"repoLink":"https://github.com/Lemon-stack/Post-AI",
+			"languages": ["react", "tailwind","firebase"]
+		},
+		{
+			"id":"4",
+			"name":"MainVid",
+			"image":"/mainVid.png",
+			"body":"Skip the long decision process - Get One YT video suggestions based on your search",
+			"previewLink":"https://main-vid.vercel.app",
+			"repoLink":"https://github.com/Lemon-stack/MainVid",
 			"languages": ["react", "tailwind","firebase"]
 		}
 		],
