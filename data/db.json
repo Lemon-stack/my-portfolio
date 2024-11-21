@@ -1,68 +1,69 @@
 {
-	"projects":[
-		{
-			"id":"1",
-			"name":"LinkedLeads - (in progress)",
-			"image":"/linkedleads.png",
-			"body":"A convesational AI-powered platform for creating and managing posts on LinkedIn",
-			"previewLink":"https://linked-leads.vercel.app",
-			"repoLink":"https://github.com/Lemon-stack/Post-AI",
-			"languages": ["react", "tailwind","firebase"]
-		},
-		{
-			"id":"2",
-			"name":"MainVid",
-			"image":"/mainVid.png",
-			"body":"Skip the long decision process - Get One YT video suggestions based on your search",
-			"previewLink":"https://main-vid.vercel.app",
-			"repoLink":"https://github.com/Lemon-stack/MainVid",
-			"languages": ["react", "tailwind","firebase"]
-		},
-		{
-			"id":"3",
-			"name":"EasyBank Landing Page UI",
-			"image":"/easybank.png",
-			"body":"A responsive demo of easybank UI",
-			"previewLink":"https://easy-bank-ui.vercel.app",
-			"repoLink":"https://github.com/Lemon-stack/EasyBank-UI",
-			"languages": ["react", "tailwind"]
-		},
-		{
-			"id":"4",
-			"name":"Team-up - (in progress)",
-			"image":"/teamup.jpg",
-			"body":"Team-up is a community-driven platform for finding collaborators on projects, products or Hackathon",
-			"previewLink":"https://le-mon.vercel.app/projects/#",
-			"repoLink":"https://le-mon.vercel.app/projects/#",
-			"languages": ["react", "tailwind","firebase"]
-		},
-		{
-			"id":"5",
-			"name":"Dynamic value services",
-			"image":"/dynamic.png",
-			"body":"I created a basic E-commerce site with Admin's CRUD operations",
-			"previewLink":"https://dynamicvalueservices.vercel.app/",
-			"repoLink":"https://github.com/Lemon-stack/E-com_page",
-			"languages": ["react", "tailwind"]
-		},
-		{
-			"id":"6",
-			"name":"Wailist",
-			"image":"/wailist.png",
-			"body":"Create and manage waitlist for product's Pre-lauch",
-			"previewLink":"https://wailist.vercel.app",
-			"repoLink":"https://github.com/Lemon-stack/wailist",
-			"languages": ["react", "tailwind","firebase"]
-		}
-		],
-		
-		 "images": {
+  "projects": [
+    {
+      "id": "1",
+      "name": "Team-up - my first Saas",
+      "image": "/teamup.jpg",
+      "body": "Team-up is a community-driven platform for finding collaborators on projects, products or Hackathon",
+      "previewLink": "https://teamup-v1.vercel.app",
+      "repoLink": "https://le-mon.vercel.app/projects/#",
+      "languages": ["react", "tailwind", "firebase"]
+    },
+
+    {
+      "id": "2",
+      "name": "MainVid",
+      "image": "/mainVid.png",
+      "body": "Skip the long decision process - Get One YT video suggestions based on your search",
+      "previewLink": "https://main-vid.vercel.app",
+      "repoLink": "https://github.com/Lemon-stack/MainVid",
+      "languages": ["react", "tailwind", "firebase"]
+    },
+    {
+      "id": "3",
+      "name": "LinkedLeads - (in progress)",
+      "image": "/linkedleads.png",
+      "body": "A convesational AI-powered platform for creating and managing posts on LinkedIn",
+      "previewLink": "https://linked-leads.vercel.app",
+      "repoLink": "https://github.com/Lemon-stack/Post-AI",
+      "languages": ["react", "tailwind", "firebase"]
+    },
+    {
+      "id": "4",
+      "name": "EasyBank Landing Page UI",
+      "image": "/easybank.png",
+      "body": "A responsive demo of easybank UI",
+      "previewLink": "https://easy-bank-ui.vercel.app",
+      "repoLink": "https://github.com/Lemon-stack/EasyBank-UI",
+      "languages": ["react", "tailwind"]
+    },
+
+    {
+      "id": "5",
+      "name": "Dynamic value services",
+      "image": "/dynamic.png",
+      "body": "I created a basic E-commerce site with Admin's CRUD operations",
+      "previewLink": "https://dynamicvalueservices.vercel.app/",
+      "repoLink": "https://github.com/Lemon-stack/E-com_page",
+      "languages": ["react", "tailwind"]
+    },
+    {
+      "id": "6",
+      "name": "Wailist",
+      "image": "/wailist.png",
+      "body": "Create and manage waitlist for product's Pre-lauch",
+      "previewLink": "https://wailist.vercel.app",
+      "repoLink": "https://github.com/Lemon-stack/wailist",
+      "languages": ["react", "tailwind", "firebase"]
+    }
+  ],
+
+  "images": {
     "tailwind": "/tailwind.svg",
     "react": "/react.svg",
-    "javascript":"/javaScript.svg",
-    "css":"/css.svg",
-    "html":"/html.svg",
-    "firebase":"/firebase.svg"
-    
+    "javascript": "/javaScript.svg",
+    "css": "/css.svg",
+    "html": "/html.svg",
+    "firebase": "/firebase.svg"
   }
 }

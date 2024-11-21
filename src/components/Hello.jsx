@@ -18,7 +18,7 @@ export default function Hello() {
           I&apos;m also comofortable with UI libraries and State Management
           tools like Redux Toolkit, ShadCN and Aceternity UI
           <br />
-          While React is my primary focus, I also use Tailwind CSS for stying,
+          While React is my primary focus, I also use Tailwind CSS for styling,
           Git &amp; GitHub for version control and Firebase for my backend
           <br />
           I&apos;m currently learning new stacks like React-Native and also
