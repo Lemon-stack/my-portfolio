@@ -1,6 +1,6 @@
 // DownloadCv.js
 
-import cvPdf from '/cv.pdf'; // Import the PDF file
+import cvPdf from '/myCv.pdf'; // Import the PDF file
 
 const DownloadCv = () => {
   const handleDownload = () => {
