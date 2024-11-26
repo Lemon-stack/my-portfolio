@@ -15,10 +15,10 @@ export default function Hello() {
           modern technologies like NextJs, ReactJs, Tailwind CSS, Supabase,
           Firebase, Git and GitHub.
           <br />
-          I&apos;m also comofortable with UI libraries and State Management
-          tools like Redux Toolkit, ShadCN and Aceternity UI
+          I&apos;m also comfortable with UI libraries and State Management
+          tools like Redux Toolkit, Zustand ShadCN and Aceternity UI
           <br />
-          While React is my primary focus, I also use Tailwind CSS for styling,
+          While NextJs and React is my primary focus, I also use Tailwind CSS for styling,
           Git &amp; GitHub for version control and Firebase for my backend
           <br />
           I&apos;m currently learning new stacks like React-Native and also
