@@ -22,7 +22,7 @@ export default function Hello() {
           Git &amp; GitHub for version control and Firebase for my backend
           <br />
           I&apos;m currently learning new stacks like React-Native and also
-          ExpressJs, seeking to improver efficiently in my field of work.
+          ExpressJs, seeking to improve efficiently in my field of work.
           <br />
           <br />
           BTW - I&apos;m on the lookout for a role as a Frontend Developer.
